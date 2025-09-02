@@ -82,5 +82,28 @@ function passPoint(obj) {
 }
 const cordObj = { x: 10, y: 20, z: 30 };
 passPoint(cordObj);
+const somePerson = { name: "Vincius", age: 17 };
+console.log(somePerson);
+// type personType = { age: number} // ERRO
+// 15 - literal types
+let test;
+test = "testando";
+console.log(test);
+function showDirection(direction) {
+    console.log(`A direção é: ${direction}`);
+}
+showDirection("center");
+// 16 - non null assertion operators
+const p = document.getElementById("some-p");
+console.log(p.innerText);
+// 17 - bigInt
+let n;
+n = 1000n;
+console.log(n);
+console.log(typeof n);
+// 18 - symbol
+let symbolA = Symbol("a");
+let symbolB = Symbol("a");
+console.log(symbolA === symbolB);
 export {};
 //# sourceMappingURL=index.js.map

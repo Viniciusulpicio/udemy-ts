@@ -117,8 +117,6 @@ showId("string")
 
 // 13 - interfaces
 
-
-
 function passPoint(obj: Point) {
     console.log(`X: ${obj.x} Y: ${obj.y} Z: ${obj.z}`)
 }
@@ -132,3 +130,58 @@ interface Point {
 }
 
 passPoint(cordObj)
+
+// 14 - interfaces x type alias
+
+interface Person {
+    name: String
+}
+
+interface Person {
+    age: number
+}
+
+const somePerson: Person = {name: "Vincius", age: 17}
+
+console.log(somePerson)
+
+type personType = {
+    name: string
+}
+// type personType = { age: number} // ERRO
+
+// 15 - literal types
+
+let test: "testando"
+
+test = "testando"
+
+console.log(test)
+
+function showDirection(direction : "left" | "right" | "center") {
+    console.log(`A direção é: ${direction}`)
+}
+
+showDirection("center");
+
+// 16 - non null assertion operators
+
+const p = document.getElementById("some-p")
+
+console.log(p!.innerText)
+
+// 17 - bigInt
+
+let n: bigint
+
+n = 1000n
+
+console.log(n)
+console.log(typeof n)
+
+// 18 - symbol
+
+let symbolA: symbol = Symbol("a")
+let symbolB: symbol = Symbol("a")
+
+console.log(symbolA === symbolB)
