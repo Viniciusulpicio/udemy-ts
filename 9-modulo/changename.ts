@@ -1,0 +1,1 @@
+export const someName: string = "esta mudou de nome"
