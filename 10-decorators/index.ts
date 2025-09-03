@@ -10,7 +10,7 @@ function myDecorator() {
 }
 
 class myClass {
-    @myDecorator
+    @myDecorator()
     testing() {
         console.log("terminando execução do método")
     }
