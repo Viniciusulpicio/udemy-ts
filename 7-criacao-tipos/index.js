@@ -16,6 +16,10 @@ const otherObj = { name: 'Carro', wheels: 4, engine: 1.0 };
 // const thirdObj = {price: 19.99, category: 'Roupa'}
 console.log(showProductName(myObj));
 console.log(showProductName(otherObj));
+const myCar = { name: 'Fusca', wheels: 4, engine: 1.0, color: 'Branco' };
+const myPen = { name: 'Bic', wheels: false, engine: false, color: 'Azul' };
+console.log(myCar);
+console.log(myPen);
 export {};
-// console.log(showProductName(thirdObj))
+// 4 - 
 //# sourceMappingURL=index.js.map
