@@ -1,0 +1,74 @@
+2025-09-08 17:02:35 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:02:53 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:03:31 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:04:38 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:04:38 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:04:43 - [31merror[39m : [31mNão foi possivel conectar ao banco de dados[39m
+2025-09-08 17:04:43 - [31merror[39m : [31mError: MongoServerError: bad auth : authentication failed[39m
+2025-09-08 17:04:43 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:04:56 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:04:56 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:05:21 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:05:21 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:12:34 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:12:34 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:12:59 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:12:59 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:13:05 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:13:05 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:13:17 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:13:17 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:14:40 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:14:40 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:14:44 - [35mhttp[39m : [35mGET /api/test 200 15 - 9.722 ms[39m
+[35m[39m
+2025-09-08 17:24:40 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:24:40 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:24:50 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:24:50 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:24:53 - [35mhttp[39m : [35mGET /api/test 200 15 - 13.040 ms[39m
+[35m[39m
+2025-09-08 17:26:29 - [35mhttp[39m : [35mGET /api/movie 404 148 - 6.369 ms[39m
+[35m[39m
+2025-09-08 17:26:46 - [35mhttp[39m : [35mGET /api//movie 404 149 - 2.451 ms[39m
+[35m[39m
+2025-09-08 17:27:11 - [35mhttp[39m : [35mGET /api/movie 404 148 - 1.360 ms[39m
+[35m[39m
+2025-09-08 17:27:41 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:27:41 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:28:25 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:28:25 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:28:32 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:28:32 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:28:37 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:28:37 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:28:50 - [35mhttp[39m : [35mGET /api/movie 404 148 - 10.412 ms[39m
+[35m[39m
+2025-09-08 17:31:08 - [35mhttp[39m : [35mPOST /api/movie 200 9 - 36.601 ms[39m
+[35m[39m
+2025-09-08 17:32:14 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:32:14 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:32:43 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:32:43 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:32:54 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:32:54 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:32:59 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:32:59 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:33:22 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:33:22 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:33:29 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:33:29 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:33:40 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:33:40 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:33:53 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:33:53 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:34:00 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:34:00 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:34:41 - [35mhttp[39m : [35mPOST /api/movie 201 147 - 96.351 ms[39m
+[35m[39m
+2025-09-08 17:50:19 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:50:19 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:50:23 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:50:23 - [32minfo[39m : [32mAplicação rodando em 8080[39m
+2025-09-08 17:50:48 - [32minfo[39m : [32mBanco de dados conectado[39m
+2025-09-08 17:50:48 - [32minfo[39m : [32mAplicação rodando em 8080[39m

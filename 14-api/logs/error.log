@@ -1,0 +1,2 @@
+2025-09-08 17:04:43 - [31merror[39m : [31mNão foi possivel conectar ao banco de dados[39m
+2025-09-08 17:04:43 - [31merror[39m : [31mError: MongoServerError: bad auth : authentication failed[39m
