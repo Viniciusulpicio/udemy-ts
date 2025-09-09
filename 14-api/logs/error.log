@@ -1,2 +1,10 @@
 2025-09-08 17:04:43 - [31merror[39m : [31mNão foi possivel conectar ao banco de dados[39m
 2025-09-08 17:04:43 - [31merror[39m : [31mError: MongoServerError: bad auth : authentication failed[39m
+2025-09-09 14:47:17 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2025-09-09 14:48:15 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2025-09-09 14:48:46 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2025-09-09 14:50:22 - [31merror[39m : [31mErro no sistema: movie.delete is not a function[39m
+2025-09-09 14:57:13 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "68c06017b7d7a5844a08911" (type string) at path "_id" for model "Movie"[39m
+2025-09-09 14:57:28 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "68c06017b7d7a5844a08911" (type string) at path "_id" for model "Movie"[39m
+2025-09-09 15:00:41 - [31merror[39m : [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2025-09-09 15:00:44 - [31merror[39m : [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
